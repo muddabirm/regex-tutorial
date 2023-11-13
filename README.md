@@ -1,1 +1,1 @@
-# Regex Tutorial Starter Code
+this tutorial is made to show how regex expressions can be used to create search parameters and specialized searches. It covers many topics of all the different characters regex can use to filter certain results.
